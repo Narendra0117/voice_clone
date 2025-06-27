@@ -1,0 +1,24 @@
+<<<<<<< HEAD
+streamlit
+git+https://github.com/openai/whisper.git
+argostranslate
+torch
+torchaudio
+transformers
+einops
+librosa
+soundfile
+inflect
+=======
+streamlit
+git+https://github.com/openai/whisper.git
+argostranslate
+torch
+torchaudio
+transformers
+einops
+librosa
+soundfile
+inflect
+>>>>>>> e7f62f2 (commit)
+pydub
